@@ -1,0 +1,7 @@
+---hello.sh#!/bin/bash echo "hello world"
+scttstrgn~$.hello.sh
+scttstrgn~$sudo apt-get install mysql-server   
+scttstrgn~$sudo apt-get install curl 
+Scttstrgn curl http://www.google.com
+scttstrgn~$ping localhost 172.58.45.189
+scttstrgn~$crontab-l "eto update"
